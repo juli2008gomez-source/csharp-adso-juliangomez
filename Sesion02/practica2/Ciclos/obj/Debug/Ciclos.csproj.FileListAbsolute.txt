@@ -1,0 +1,7 @@
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\practica2\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\practica2\Ciclos\bin\Debug\Ciclos.exe
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\practica2\Ciclos\bin\Debug\Ciclos.pdb
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\practica2\Ciclos\obj\Debug\Ciclos.csproj.AssemblyReference.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\practica2\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\practica2\Ciclos\obj\Debug\Ciclos.exe
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\practica2\Ciclos\obj\Debug\Ciclos.pdb

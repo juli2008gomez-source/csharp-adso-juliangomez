@@ -1,0 +1,7 @@
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\login\bin\Debug\login.exe.config
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\login\bin\Debug\login.exe
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\login\bin\Debug\login.pdb
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\login\obj\Debug\login.exe
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion02\login\obj\Debug\login.pdb
