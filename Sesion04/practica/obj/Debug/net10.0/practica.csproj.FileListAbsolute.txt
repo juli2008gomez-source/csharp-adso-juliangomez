@@ -1,0 +1,15 @@
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\bin\Debug\net10.0\practica.exe
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\bin\Debug\net10.0\practica.deps.json
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\bin\Debug\net10.0\practica.runtimeconfig.json
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\bin\Debug\net10.0\practica.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\bin\Debug\net10.0\practica.pdb
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\practica.AssemblyInfoInputs.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\practica.AssemblyInfo.cs
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\practica.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\refint\practica.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\practica.pdb
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\practica.genruntimeconfig.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\ref\practica.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion04\practica\obj\Debug\net10.0\practica.csproj.Up2Date
