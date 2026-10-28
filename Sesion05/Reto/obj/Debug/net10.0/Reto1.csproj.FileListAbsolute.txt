@@ -1,0 +1,15 @@
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\bin\Debug\net10.0\Reto1.exe
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\bin\Debug\net10.0\Reto1.deps.json
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\bin\Debug\net10.0\Reto1.runtimeconfig.json
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\bin\Debug\net10.0\Reto1.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\bin\Debug\net10.0\Reto1.pdb
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\Reto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\Reto1.AssemblyInfoInputs.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\Reto1.AssemblyInfo.cs
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\Reto1.csproj.CoreCompileInputs.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\Reto1.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\refint\Reto1.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\Reto1.pdb
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\Reto1.genruntimeconfig.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\ref\Reto1.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion05\Reto\obj\Debug\net10.0\Reto1.csproj.Up2Date
