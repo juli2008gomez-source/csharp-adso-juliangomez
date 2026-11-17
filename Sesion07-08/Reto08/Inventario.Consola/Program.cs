@@ -21,6 +21,7 @@ do
     Console.WriteLine("7. Eliminar producto");
     Console.WriteLine("8. Salir");
     Console.Write("Seleccione una opción: ");
+    Console.WriteLine($"Tus datos se guardan en: {Path.GetFullPath("inventario.json")}");
 
     if (!int.TryParse(Console.ReadLine(), out opcion))
     {
