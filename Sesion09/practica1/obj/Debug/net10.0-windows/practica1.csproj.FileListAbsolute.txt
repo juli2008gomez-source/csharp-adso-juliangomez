@@ -1,0 +1,17 @@
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\bin\Debug\net10.0-windows\practica1.exe
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\bin\Debug\net10.0-windows\practica1.deps.json
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\bin\Debug\net10.0-windows\practica1.runtimeconfig.json
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\bin\Debug\net10.0-windows\practica1.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\bin\Debug\net10.0-windows\practica1.pdb
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.Form1.resources
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.csproj.GenerateResource.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.AssemblyInfoInputs.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.AssemblyInfo.cs
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.csproj.CoreCompileInputs.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\refint\practica1.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.pdb
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.genruntimeconfig.cache
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\ref\practica1.dll
+C:\Users\usmac\OneDrive\Documentos\Csharp-adso-JulianGomez\Sesion09\practica1\obj\Debug\net10.0-windows\practica1.csproj.Up2Date
